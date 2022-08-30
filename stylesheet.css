@@ -1,0 +1,25 @@
+.header {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 60px;
+    background-color: orangered;
+    border: 5px solid gray;
+
+}
+
+p {
+text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 15px;
+background-color: orangered;
+border: 2.5px solid gray;
+color: black;
+}
+
+.return {
+   text-align: center; 
+}
+
+ul {
+    list-style: none;
+}
